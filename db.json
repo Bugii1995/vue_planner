@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Learn vue",
+      "description": "Learn vue with firebase and tailwind. Make sure you learn the basics of vue and then move on to the more advanced topics.",
+      "completed": false,
+      "important": false
+    },
+    {
+      "title": "Learn french",
+      "description": "Enroll in french class. Also watch french movies and listen to french music. Use duolingo to learn french.",
+      "id": 2,
+      "important": false,
+      "completed": false
+    },
+    {
+      "title": "Clean my room",
+      "description": "Just clean it man",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Write letters ",
+      "description": "Make sure you send to everyone and say sorry that you did not reply earlier. ",
+      "completed": false,
+      "id": 4,
+      "important": false
+    }
+  ]
+}
