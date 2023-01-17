@@ -1,0 +1,9 @@
+ npm init vue@latest
+ cd class1
+  npm install
+  npm run dev
+
+npm install -g json-server
+npx json-server --watch db.json 
+
+https://fonts.google.com/icons?selected=Material+Icons
